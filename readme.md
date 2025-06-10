@@ -1,4 +1,4 @@
-Yo, eu sou [Seu Nome]! 👨‍💻
+Yo, eu sou JaponêsLofy! sim, Lofy 👨‍💻
 Desenvolvedor full-stack que manja de Node.js como se fosse café da manhã, Python pra resolver na unha, PHP pra fazer site brilhar e Java pros gringos que pagam em dólar. Meu lema? Código limpo, vida bagunçada e memes que fariam o GitHub pedir arrego. 😎 Se meu código não rodar, é só reiniciar o servidor... ou a vida.
 🛠️ Tech Stack (aka "as armas que eu uso pra não surtar")
 
